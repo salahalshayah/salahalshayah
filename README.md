@@ -29,12 +29,18 @@ My name is Salah Al Shayah and I live in Lebanon
     <img src="https://img.shields.io/badge/email-%230077B5?style=for-the-badge&logo=gmail&logoColor=white&color=0072C6" />
 </a>
 
+## Tools and Languages
 
+<a href="https://code.visualstudio.com/"><img height="35" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" /></a>
+<a href="https://www.java.com/"><img height="35" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" /></a>
+<a href="https://www.python.org/"><img height="35" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /></a>
+
+<img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=salahalshayah&layout=compact&langs_count=8&theme=dark&hide=css,scss"/>
 
 ## GitHub Stats
 
 <a href="https://github.com/salahalshayah/salahalshayah">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=salahalshayah&show_icons=true&theme=dark&include_all_commits=true&count_private=true&number_format=long"/>
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=salahalshayah&show_icons=true&locale=en&layout=demo&theme=dark&hide_border=true&count_private=true" />
-  <img width="60%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=salahalshayah&layout=compact&langs_count=8&theme=dark&hide=css,scss"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=salahalshayah&show_icons=true&theme=dark&include_all_commits=true&count_private=true&number_format=long"/>
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=salahalshayah&show_icons=true&locale=en&layout=demo&theme=dark&hide_border=true&count_private=true" />
+  
 </a>
