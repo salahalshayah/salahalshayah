@@ -1,16 +1,40 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=salahalshayah&style=for-the-badge-square) [](https://github.com/salahalshayah)
 
-<!--
-**salahalshayah/salahalshayah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello there! 👋
 
-Here are some ideas to get you started:
+## About  me
+My name is Salah Al Shayah and I live in Lebanon
+- I am a Sophomore Computer Engineering student at the [Lebanese American University](https://www.lau.edu.lb/)
+- I am passionate about math, physics, and computer science
+- I love contributing to open source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Find me on
+<a href="https://www.linkedin.com/in/salahalshayah">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0072b1" />
+</a>
+<a href="https://twitter.com/salahalshayah">
+    <img src="https://img.shields.io/badge/twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white&color=00acee" />
+</a>
+<a href="wa.me/+96170491186">
+    <img src="https://img.shields.io/badge/whatsapp-%230077B5?style=for-the-badge&logo=whatsapp&logoColor=white&color=25D366" />
+</a>
+<a href="https://t.me/salahalshayah/">
+    <img src="https://img.shields.io/badge/telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white&color=0088cc" />
+</a>
+<a href="https://leetcode.com/Salah_Al_Shayah/">
+    <img src="https://img.shields.io/badge/leetcode-%230077B5?style=for-the-badge&logo=leetcode&logoColor=black&color=ffa116" />
+</a>
+<a href="mailto:salah.alshayah@lau.edu">
+    <img src="https://img.shields.io/badge/email-%230077B5?style=for-the-badge&logo=gmail&logoColor=white&color=0072C6" />
+</a>
+
+
+
+## GitHub Stats
+
+<a href="https://github.com/salahalshayah/salahalshayah">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=salahalshayah&show_icons=true&theme=dark&include_all_commits=true&count_private=true&number_format=long"/>
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=salahalshayah&show_icons=true&locale=en&layout=demo&theme=dark&hide_border=true&count_private=true" />
+  <img width="60%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=salahalshayah&layout=compact&langs_count=8&theme=dark&hide=css,scss"/>
+</a>
