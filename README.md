@@ -16,9 +16,9 @@ My name is Salah Al Shayah and I live in Lebanon
 <a href="https://twitter.com/salahalshayah">
     <img src="https://img.shields.io/badge/twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white&color=00acee" />
 </a>
-<a href="https://wa.me/+96170491186">
-    <img src="https://img.shields.io/badge/whatsapp-%230077B5?style=for-the-badge&logo=whatsapp&logoColor=white&color=25D366" />
-</a>
+
+
+
 <a href="https://t.me/salahalshayah/">
     <img src="https://img.shields.io/badge/telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white&color=0088cc" />
 </a>
