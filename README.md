@@ -41,6 +41,5 @@ My name is Salah Al Shayah and I live in Lebanon
 
 <a href="https://github.com/salahalshayah/salahalshayah">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=salahalshayah&show_icons=true&theme=dark&include_all_commits=true&count_private=true&number_format=long"/>
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=salahalshayah&show_icons=true&locale=en&layout=demo&theme=dark&hide_border=true&count_private=true" />
   
 </a>
