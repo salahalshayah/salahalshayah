@@ -4,7 +4,7 @@
 
 ## About  me
 My name is Salah Al Shayah and I live in Lebanon
-- I am a Sophomore Computer Engineering student at the [Lebanese American University](https://www.lau.edu.lb/)
+- I am a Junior Computer Engineering student at the [Lebanese American University](https://www.lau.edu.lb/)
 - I am passionate about math, physics, and computer science
 - I love contributing to open source projects
 
