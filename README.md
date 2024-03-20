@@ -16,17 +16,14 @@ My name is Salah Al Shayah and I live in Lebanon
 <a href="https://twitter.com/salahalshayah">
     <img src="https://img.shields.io/badge/twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white&color=00acee" />
 </a>
-
-
-
-<a href="https://t.me/salahalshayah/">
-    <img src="https://img.shields.io/badge/telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white&color=0088cc" />
-</a>
 <a href="https://leetcode.com/Salah_Al_Shayah/">
     <img src="https://img.shields.io/badge/leetcode-%230077B5?style=for-the-badge&logo=leetcode&logoColor=black&color=ffa116" />
 </a>
+<a href="mailto:salah.alshayah@lau.edu">
+    <img src="https://img.shields.io/badge/email-%230077B5?style=for-the-badge&logo=gmail&logoColor=white&color=0060D0" />
+</a>
 <a href="mailto:contact@salahalshayah.me">
-    <img src="https://img.shields.io/badge/email-%230077B5?style=for-the-badge&logo=gmail&logoColor=white&color=0072C6" />
+    <img src="https://img.shields.io/badge/email-%230077B5?style=for-the-badge&logo=outlook&logoColor=white&color=0072C6" />
 </a>
 
 ## Tools and Languages
