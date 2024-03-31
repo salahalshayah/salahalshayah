@@ -9,7 +9,7 @@ My name is Salah Al Shayah and I live in Lebanon
 - I love contributing to open source projects
 
 ## Badges
-<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/7OVuYnL4SlyPEY8-jQIDWg?identity__email=salah.alshayah%40lau.edu"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/7OVuYnL4SlyPEY8-jQIDWg/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman API Fundamentals Student Expert</p><script async="async" src="https://badgr.com/assets/widgets.bundle.js"></script></blockquote>
+<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/7OVuYnL4SlyPEY8-jQIDWg?identity__email=salah.alshayah%40lau.edu"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/7OVuYnL4SlyPEY8-jQIDWg/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman API Fundamentals Student Expert</p></blockquote>
 
 ## Find me on
 <a href="https://www.linkedin.com/in/salahalshayah">
