@@ -22,9 +22,6 @@ My name is Salah Al Shayah and I live in Lebanon
     <img src="https://img.shields.io/badge/leetcode-%230077B5?style=for-the-badge&logo=leetcode&logoColor=black&color=ffa116" />
 </a>
 <a href="mailto:salah.alshayah@lau.edu">
-    <img src="https://img.shields.io/badge/email-%230077B5?style=for-the-badge&logo=gmail&logoColor=white&color=D0D6A0" />
-</a>
-<a href="mailto:contact@salahalshayah.me">
     <img src="https://img.shields.io/badge/email-%230077B5?style=for-the-badge&logo=gmail&logoColor=white&color=0072C6" />
 </a>
 
